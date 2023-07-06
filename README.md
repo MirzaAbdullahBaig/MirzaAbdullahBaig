@@ -30,11 +30,11 @@
 <table width="100">
 <tr>
   <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="80">
+        <img src="https://i.ibb.co/k9DR4qb/download-1.png" width="80">
   </td>
-  
+	
   <td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
+        <img src="https://i.ibb.co/LJW290k/600px-HTML5-Badge-svg.png" alt="600px-HTML5-Badge-svg"  width="80">
   </td>
     
   <td align='center' width="200">
@@ -61,7 +61,7 @@
 </table>
 <br>
 <br>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect me Via:</h3>
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/mirzaabdullahbaig0/"><img src="https://img.shields.io/badge/-Mirza%20Abdullah%20Baig-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
