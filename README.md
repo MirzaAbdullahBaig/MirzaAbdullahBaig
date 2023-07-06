@@ -3,7 +3,7 @@
     <h1> Hi, I'm Mirza Abdullah Baig<a href="https://hammad-air.github.io/hammad/"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/MirzaAbdullahBaig"><img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain+Developer;Web+3.0+Dapps+Defi+Dex;Mern+Stack+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
+<a href="https://github.com/MirzaAbdullahBaig"><img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain+Developer;Web+3.0,+Defi,+Dapps,+Dex,;Mern+Stack+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
 	
 <!-- ## My WordPress Course 
 - [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
@@ -38,7 +38,7 @@
   </td>
     
   <td align='center' width="200">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
+        <img src="https://i.ibb.co/MRtPsvN/download.png" width="80">
   </td>
 
   <td align='center'>
@@ -64,9 +64,9 @@
 <h3 align="left">Connect with me:</h3>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/mirzaabdullahbaig0/"><img src="https://img.shields.io/badge/-Hammad%20Sheikh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:abaig7921@gmail.com"><img src="https://img.shields.io/badge/-hammadn788@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/mirza__abdullah__baig/"><img src="https://img.shields.io/badge/-@hammad2980-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mirzaabdullahbaig0/"><img src="https://img.shields.io/badge/-Mirza%20Abdullah%20Baig-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:abaig7921@gmail.com"><img src="https://img.shields.io/badge/-abaig7921@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/mirza__abdullah__baig/"><img src="https://img.shields.io/badge/-Mirza%20Abdullah%20Baig-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
  </p>
  
 <br>
