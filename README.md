@@ -64,10 +64,6 @@
 <br>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirzaabdullahbaig&show_icons=true&locale=en&layout=compact" alt="mirzaabdullahbaig" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirzaabdullahbaig&" alt="mirzaabdullahbaig" /></p>
-<br>
-<br>
 <h3 align="left">Connect me Via:</h3>
 </p>
 <p align="center">
@@ -76,4 +72,8 @@
 <a href="https://www.instagram.com/mirza__abdullah__baig/"><img src="https://img.shields.io/badge/-Mirza%20Abdullah%20Baig-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
  </p>
  
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirzaabdullahbaig&show_icons=true&locale=en&layout=compact" alt="mirzaabdullahbaig" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirzaabdullahbaig&" alt="mirzaabdullahbaig" /></p>
+<br>
 <br>
