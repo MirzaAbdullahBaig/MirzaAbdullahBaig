@@ -9,7 +9,7 @@
 - [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
  -->
 
-- 🔭 I’m currently working & Learning on **Blockchain Technology.**
+- 🔭 I’m currently Learning on **AI Chatbot.**
 
 - 📓 I’m currently learning Genrative AI...
 	
