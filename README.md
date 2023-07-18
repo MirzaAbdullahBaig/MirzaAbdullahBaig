@@ -13,7 +13,7 @@
 
 - 📓 I’m currently learning Genrative AI...
 	
-- 🤝 I’m looking that if anyone should help in any blockchain related query.
+- 🤝 I’m looking that if anyone should help in any blockchain or Chatbot related query.
 
 - ✨ Favorite Tech: Solidity, React, Typescript.
 
