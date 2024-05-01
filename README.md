@@ -1,4 +1,4 @@
-<h1>Mirza Abdullah Baig</h1>
+<h1 align="center">Mirza Abdullah Baig</h1>
 
 # 💫 About Me:
 🔭 I’m currently working on Front-end Development<br>🌱 I’m currently learning Full Stack<br>👯 I’m looking to Front-end internship<br>💬 Talk me about software's<br>⚡ Student & Teacher 
