@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 🔭 I’m currently working on Front-end Development<br>🌱 I’m currently learning Full Stack<br>👯 I’m looking to Front-end internship<br>💬 Talk me about software's<br>⚡ Student & Teacher 
-
+<hr>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/MirzaAbdullahBaig0) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mirza__abdullah__baig/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mirzaabdullahbaig0/) 
